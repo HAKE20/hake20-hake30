@@ -1,3 +1,3 @@
 # hake20-hake30
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/programming-courses-in3zfn)
+[Edit on StackBlitz ⚡️](https://hake20/hake30
